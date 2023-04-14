@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.js": "/static/js/main.56fdb2b5.chunk.js",
+    "main.js.map": "/static/js/main.56fdb2b5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.92ca0603.js",
+    "runtime-main.js.map": "/static/js/runtime-main.92ca0603.js.map",
+    "static/js/2.ac84c6fa.chunk.js": "/static/js/2.ac84c6fa.chunk.js",
+    "static/js/2.ac84c6fa.chunk.js.map": "/static/js/2.ac84c6fa.chunk.js.map",
+    "index.html": "/index.html",
+    "static/js/2.ac84c6fa.chunk.js.LICENSE.txt": "/static/js/2.ac84c6fa.chunk.js.LICENSE.txt",
+    "static/media/AS logo.a1ac0c3d.png": "/static/media/AS logo.a1ac0c3d.png",
+    "static/media/Field Crops.78ebcd4c.png": "/static/media/Field Crops.78ebcd4c.png",
+    "static/media/Forage Seeds.c218366d.png": "/static/media/Forage Seeds.c218366d.png",
+    "static/media/Horticulture Seeds.a1635037.png": "/static/media/Horticulture Seeds.a1635037.png",
+    "static/media/Login.1ca23b34.png": "/static/media/Login.1ca23b34.png",
+    "static/media/Pesticides.4a02d488.png": "/static/media/Pesticides.4a02d488.png",
+    "static/media/Plant Nutrients.20583958.png": "/static/media/Plant Nutrients.20583958.png",
+    "static/media/Polyhouse Seeds.a55b296f.png": "/static/media/Polyhouse Seeds.a55b296f.png",
+    "static/media/Tools and Instruments.24015b0c.png": "/static/media/Tools and Instruments.24015b0c.png",
+    "static/media/aquaculture icon.3e1c6abf.png": "/static/media/aquaculture icon.3e1c6abf.png",
+    "static/media/deliver.57e013fe.png": "/static/media/deliver.57e013fe.png",
+    "static/media/logopic.3b738f28.png": "/static/media/logopic.3b738f28.png",
+    "static/media/pay.9eb26c77.png": "/static/media/pay.9eb26c77.png",
+    "static/media/return.cb0e3040.png": "/static/media/return.cb0e3040.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92ca0603.js",
+    "static/js/2.ac84c6fa.chunk.js",
+    "static/js/main.56fdb2b5.chunk.js"
+  ]
+}
